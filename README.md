@@ -1,4 +1,4 @@
-# Criando-m-quinas-Virtuais-Azure
+# Criando-maquinas-Virtuais-Azure
 Criando máquinas Virtuais na Azure
 Acesse o Portal do Azure: Entre no portal do Azure com sua conta criada (https://portal.azure.com).
 Iniciar o processo de criação: No menu principal, selecione "Máquinas Virtuais" e clique em "Criar" > "Máquina Virtual".
